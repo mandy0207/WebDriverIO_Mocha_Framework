@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@data-val-number='The field Qty must be a number.']"
+}

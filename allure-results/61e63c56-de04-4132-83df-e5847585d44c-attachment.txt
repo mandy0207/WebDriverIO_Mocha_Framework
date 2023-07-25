@@ -1,0 +1,42 @@
+{
+  "id": {
+    "sessionId": "31f5e63de7cc4d40ba23964412d6caa1",
+    "elementId": "A253C8F693EC3B9D19A48779C332BD2A_element_87",
+    "element-6066-11e4-a52e-4f735466cecf": "A253C8F693EC3B9D19A48779C332BD2A_element_87",
+    "selector": "#courses-iframe",
+    "parent": {
+      "sessionId": "31f5e63de7cc4d40ba23964412d6caa1",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "114.0.5735.199",
+        "chrome": {
+          "chromedriverVersion": "114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052})",
+          "userDataDir": "C:\\Users\\msingh\\AppData\\Local\\Temp\\scoped_dir33492_127733923"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:61699"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//*[@class='product-title']/a)[3]"
+}

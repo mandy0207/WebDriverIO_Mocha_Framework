@@ -1,0 +1,3 @@
+{
+  "url": "https://ca.hotels.com/"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".listbox .list li:nth-child(4)"
+}
